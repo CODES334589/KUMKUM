@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Kumkum Gupta </h1>
 <h1 align="center">🚀 About Me:
 <h2 align="center">🎓 B.Sc. I.T. | 💻 Future Software Engineer | 🚀 Learning Every Day</h2>
-<h2 align="center" >👩‍🎓 I'm a final-year B.Sc. I.T. student passionate about software development</h2>
+<h2 align="center">👩‍🎓 I am a B.Sc. I.T. graduated</h2>
 <h2 align="center"> 💡 Interested in Web Development, Data Structures, Java, Python </h2> 
 <h2 align="center">🌱 Currently Learning:-Cloud Computing </h2>
 <h2 align="center">💻 Exploring Full Stack Development</h2>
@@ -19,12 +19,13 @@
 <h2 align="center">💻*real-world projects*</h2>
 <h2 align="center">📚 *Learning every single day*</h2>
 
-<h3 align=:center"><br> 🧰 My Toolbox : </h3>
-<h2 align="center"> 🛠️ Toolbox: Skilled in *Git, VSCode, Postman* — constantly exploring new tools to enhance productivity.</h2>
+# 💻 Tech Stack:
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+ 
 <h3 align=:center"><br>🌐 Connect With Me:
 <div align="left">
-  <a href="https://github.com/CODES334589">
+  <a href="https://github.com/KUMKUM">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white" height="70" alt="Github Badge"/>
   </a>
   
@@ -43,15 +44,7 @@
 ###
 
 <br clear="both">
-
-
-
-
-
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kumkumgupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kumkumgupta&theme=dark&hide_border=false)<br/>
